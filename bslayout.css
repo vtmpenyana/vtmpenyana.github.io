@@ -1,0 +1,23 @@
+html, body { 
+  background: url(pos.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: #FFFFFF;
+  font-family: 'Rubik', sans-serif;
+  height: 100%;
+  width: 100%;
+}
+
+
+hr {
+	border-color: #0F3A9C;
+	width:4em;
+}
+
+
+h1 {
+	text-transform: uppercase;
+	font-size: 4rem;
+}
